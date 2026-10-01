@@ -32,6 +32,7 @@ Before you proceed make sure the vehicle is stopped on a flat surface and engine
 
 8. Lower and remove the jack.
 
+**Warning:** Dispose of the used filter according to local regulations.
 
 ## Post Procedure:
 

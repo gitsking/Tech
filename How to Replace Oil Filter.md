@@ -47,4 +47,4 @@ Before you proceed make sure the vehicle is stopped on a flat surface and engine
 6. Record the date, mileage, oil specification, and filter used.
 
 
-**Result:** The Old filter is replaced and no oil leaks are observed
+**Result:** The Old filter is replaced and no oil leaks are observed.

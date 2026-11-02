@@ -277,8 +277,8 @@ old organization
 - It means that commit you are currently working on
 - This is usually the most recent commit you've made
 -- Technically, the most recent you've made on a branch
-- However, you can move HEAD to a different commit if
-that's something you want to work with
+- However, you can move HEAD to a different commit if that's something you
+ want to work with
 
 **2. GIT**
 
@@ -852,4 +852,4 @@ with in Git
 - Some tools, like ReadMe can automatically pull from GitHub and generate 
 documentation.
 
-*this is the end of training*
+*this is the end of this document*
